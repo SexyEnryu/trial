@@ -1,0 +1,104 @@
+{
+  "flame-plate": {
+    "name": "Flame Plate",
+    "effect": "Held: Increases the power of the holder's Fire moves by 20%.\nHeld by a Multitype Pok\u00e9mon: Holder's type becomes Fire.",
+    "fling_power": 90,
+    "fling_effect": null
+  },
+  "splash-plate": {
+    "name": "Splash Plate",
+    "effect": "Held: Increases the power of the holder's Water moves by 20%.\nHeld by a Multitype Pok\u00e9mon: Holder's type becomes Water.",
+    "fling_power": 90,
+    "fling_effect": null
+  },
+  "zap-plate": {
+    "name": "Zap Plate",
+    "effect": "Held: Increases the power of the holder's Electric moves by 20%.\nHeld by a Multitype Pok\u00e9mon: Holder's type becomes Electric.",
+    "fling_power": 90,
+    "fling_effect": null
+  },
+  "meadow-plate": {
+    "name": "Meadow Plate",
+    "effect": "Held: Increases the power of the holder's Grass moves by 20%.\nHeld by a Multitype Pok\u00e9mon: Holder's type becomes Grass.",
+    "fling_power": 90,
+    "fling_effect": null
+  },
+  "icicle-plate": {
+    "name": "Icicle Plate",
+    "effect": "Held: Increases the power of the holder's Ice moves by 20%.\nHeld by a Multitype Pok\u00e9mon: Holder's type becomes Ice.",
+    "fling_power": 90,
+    "fling_effect": null
+  },
+  "fist-plate": {
+    "name": "Fist Plate",
+    "effect": "Held: Increases the power of the holder's Fighting moves by 20%.\nHeld by a Multitype Pok\u00e9mon: Holder's type becomes Fighting.",
+    "fling_power": 90,
+    "fling_effect": null
+  },
+  "toxic-plate": {
+    "name": "Toxic Plate",
+    "effect": "Held: Increases the power of the holder's Poison moves by 20%.\nHeld by a Multitype Pok\u00e9mon: Holder's type becomes Poison.",
+    "fling_power": 90,
+    "fling_effect": null
+  },
+  "earth-plate": {
+    "name": "Earth Plate",
+    "effect": "Held: Increases the power of the holder's Ground moves by 20%.\nHeld by a Multitype Pok\u00e9mon: Holder's type becomes Ground.",
+    "fling_power": 90,
+    "fling_effect": null
+  },
+  "sky-plate": {
+    "name": "Sky Plate",
+    "effect": "Held: Increases the power of the holder's Flying moves by 20%.\nHeld by a Multitype Pok\u00e9mon: Holder's type becomes Flying.",
+    "fling_power": 90,
+    "fling_effect": null
+  },
+  "mind-plate": {
+    "name": "Mind Plate",
+    "effect": "Held: Increases the power of the holder's Psychic moves by 20%.\nHeld by a Multitype Pok\u00e9mon: Holder's type becomes Psychic.",
+    "fling_power": 90,
+    "fling_effect": null
+  },
+  "insect-plate": {
+    "name": "Insect Plate",
+    "effect": "Held: Increases the power of the holder's Bug moves by 20%.\nHeld by a Multitype Pok\u00e9mon: Holder's type becomes Bug.",
+    "fling_power": 90,
+    "fling_effect": null
+  },
+  "stone-plate": {
+    "name": "Stone Plate",
+    "effect": "Held: Increases the power of the holder's Rock moves by 20%.\nHeld by a Multitype Pok\u00e9mon: Holder's type becomes Rock.",
+    "fling_power": 90,
+    "fling_effect": null
+  },
+  "spooky-plate": {
+    "name": "Spooky Plate",
+    "effect": "Held: Increases the power of the holder's Ghost moves by 20%.\nHeld by a Multitype Pok\u00e9mon: Holder's type becomes Ghost.",
+    "fling_power": 90,
+    "fling_effect": null
+  },
+  "draco-plate": {
+    "name": "Draco Plate",
+    "effect": "Held: Increases the power of the holder's Dragon moves by 20%.\nHeld by a Multitype Pok\u00e9mon: Holder's type becomes Dragon.",
+    "fling_power": 90,
+    "fling_effect": null
+  },
+  "dread-plate": {
+    "name": "Dread Plate",
+    "effect": "Held: Increases the power of the holder's Dark moves by 20%.\nHeld by a Multitype Pok\u00e9mon: Holder's type becomes Dark.",
+    "fling_power": 90,
+    "fling_effect": null
+  },
+  "iron-plate": {
+    "name": "Iron Plate",
+    "effect": "Held: Increases the power of the holder's Steel moves by 20%.\nHeld by a Multitype Pok\u00e9mon: Holder's type becomes Steel.",
+    "fling_power": 90,
+    "fling_effect": null
+  },
+  "pixie-plate": {
+    "name": "Pixie Plate",
+    "effect": "Held: Fairy-Type moves from holder do 20% more damage. Changes Arceus's and Judgment's type to Fairy.",
+    "fling_power": 90,
+    "fling_effect": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "Gen 1": ["Bulbasaur", "Charmander", "Squirtle"],
+    "Gen 2": ["Chikorita", "Cyndaquil", "Totodile"],
+    "Gen 3": ["Treecko", "Torchic", "Mudkip"],
+    "Gen 4": ["Turtwig", "Chimchar", "Piplup"],
+    "Gen 5": ["Snivy", "Tepig", "Oshawott"],
+    "Gen 6": ["Chespin", "Fennekin", "Froakie"],
+    "Gen 7": ["Rowlet", "Litten", "Popplio"],
+    "Gen 8": ["Grookey", "Scorbunny", "Sobble"],
+    "Gen 9": ["Sprigatito", "Fuecoco", "Quaxly"]
+}

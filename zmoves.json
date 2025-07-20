@@ -1,0 +1,237 @@
+[
+    {
+      "move": "breakneck-blitz",
+      "type": "normal",
+      "z_crystal": "normalium-z",
+      "power_by_base": {
+        "1-55": 100,
+        "56-65": 120,
+        "66-75": 140,
+        "76-100": 160,
+        "101-140": 175,
+        "141+": 200
+      }
+    },
+    {
+      "move": "all-out-pummeling",
+      "type": "fighting",
+      "z_crystal": "fightinium-z",
+      "power_by_base": {
+        "1-55": 100,
+        "56-65": 120,
+        "66-75": 140,
+        "76-100": 160,
+        "101-140": 175,
+        "141+": 200
+      }
+    },
+    {
+      "move": "supersonic-skystrike",
+      "type": "flying",
+      "z_crystal": "flyinium-z",
+      "power_by_base": {
+        "1-55": 100,
+        "56-65": 120,
+        "66-75": 140,
+        "76-100": 160,
+        "101-140": 175,
+        "141+": 200
+      }
+    },
+    {
+      "move": "acid-downpour",
+      "type": "poison",
+      "z_crystal": "poisonium-z",
+      "power_by_base": {
+        "1-55": 100,
+        "56-65": 120,
+        "66-75": 140,
+        "76-100": 160,
+        "101-140": 175,
+        "141+": 200
+      }
+    },
+    {
+      "move": "tectonic-rage",
+      "type": "ground",
+      "z_crystal": "groundium-z",
+      "power_by_base": {
+        "1-55": 100,
+        "56-65": 120,
+        "66-75": 140,
+        "76-100": 160,
+        "101-140": 175,
+        "141+": 200
+      }
+    },
+    {
+      "move": "continental-crush",
+      "type": "rock",
+      "z_crystal": "rockium-z",
+      "power_by_base": {
+        "1-55": 100,
+        "56-65": 120,
+        "66-75": 140,
+        "76-100": 160,
+        "101-140": 175,
+        "141+": 200
+      }
+    },
+    {
+      "move": "savage-spin-out",
+      "type": "bug",
+      "z_crystal": "buginium-z",
+      "power_by_base": {
+        "1-55": 100,
+        "56-65": 120,
+        "66-75": 140,
+        "76-100": 160,
+        "101-140": 175,
+        "141+": 200
+      }
+    },
+    {
+      "move": "never-ending-nightmare",
+      "type": "ghost",
+      "z_crystal": "ghostium-z",
+      "power_by_base": {
+        "1-55": 100,
+        "56-65": 120,
+        "66-75": 140,
+        "76-100": 160,
+        "101-140": 175,
+        "141+": 200
+      }
+    },
+    {
+      "move": "corkscrew-crash",
+      "type": "steel",
+      "z_crystal": "steelium-z",
+      "power_by_base": {
+        "1-55": 100,
+        "56-65": 120,
+        "66-75": 140,
+        "76-100": 160,
+        "101-140": 175,
+        "141+": 200
+      }
+    },
+    {
+      "move": "inferno-overdrive",
+      "type": "fire",
+      "z_crystal": "firium-z",
+      "power_by_base": {
+        "1-55": 100,
+        "56-65": 120,
+        "66-75": 140,
+        "76-100": 160,
+        "101-140": 175,
+        "141+": 200
+      }
+    },
+    {
+      "move": "hydro-vortex",
+      "type": "water",
+      "z_crystal": "waterium-z",
+      "power_by_base": {
+        "1-55": 100,
+        "56-65": 120,
+        "66-75": 140,
+        "76-100": 160,
+        "101-140": 175,
+        "141+": 200
+      }
+    },
+    {
+      "move": "bloom-doom",
+      "type": "grass",
+      "z_crystal": "grassium-z",
+      "power_by_base": {
+        "1-55": 100,
+        "56-65": 120,
+        "66-75": 140,
+        "76-100": 160,
+        "101-140": 175,
+        "141+": 200
+      }
+    },
+    {
+      "move": "gigavolt-havoc",
+      "type": "electric",
+      "z_crystal": "electrium-z",
+      "power_by_base": {
+        "1-55": 100,
+        "56-65": 120,
+        "66-75": 140,
+        "76-100": 160,
+        "101-140": 175,
+        "141+": 200
+      }
+    },
+    {
+      "move": "shattered-psyche",
+      "type": "psychic",
+      "z_crystal": "psychium-z",
+      "power_by_base": {
+        "1-55": 100,
+        "56-65": 120,
+        "66-75": 140,
+        "76-100": 160,
+        "101-140": 175,
+        "141+": 200
+      }
+    },
+    {
+      "move": "subzero-slammer",
+      "type": "ice",
+      "z_crystal": "icium-z",
+      "power_by_base": {
+        "1-55": 100,
+        "56-65": 120,
+        "66-75": 140,
+        "76-100": 160,
+        "101-140": 175,
+        "141+": 200
+      }
+    },
+    {
+      "move": "devastating-drake",
+      "type": "dragon",
+      "z_crystal": "dragonium-z",
+      "power_by_base": {
+        "1-55": 100,
+        "56-65": 120,
+        "66-75": 140,
+        "76-100": 160,
+        "101-140": 175,
+        "141+": 200
+      }
+    },
+    {
+      "move": "black-hole-eclipse",
+      "type": "dark",
+      "z_crystal": "darkinium-z",
+      "power_by_base": {
+        "1-55": 100,
+        "56-65": 120,
+        "66-75": 140,
+        "76-100": 160,
+        "101-140": 175,
+        "141+": 200
+      }
+    },
+    {
+      "move": "twinkle-tackle",
+      "type": "fairy",
+      "z_crystal": "fairium-z",
+      "power_by_base": {
+        "1-55": 100,
+        "56-65": 120,
+        "66-75": 140,
+        "76-100": 160,
+        "101-140": 175,
+        "141+": 200
+      }
+    }
+  ]
+  

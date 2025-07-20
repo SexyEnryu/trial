@@ -1,0 +1,126 @@
+{
+    "pokeballs": [
+        {
+            "name": "Regular",
+            "description": "Standard Poké Ball used to catch Pokémon.",
+            "catch_rate": 1,
+            "rate": 10
+        },
+        {
+            "name": "Repeat",
+            "description": "More effective against Pokémon species that the player has already caught.",
+            "catch_rate": 3,
+            "rate": 50
+        },
+        {
+            "name": "Nest",
+            "description": "More effective against lower-level wild Pokémon.",
+            "catch_rate": "Variable, increases with the level of the wild Pokémon.",
+            "rate": 50
+        },
+        {
+            "name": "Master",
+            "description": "Guarantees the capture of any wild Pokémon without fail.",
+            "catch_rate": "Guaranteed capture",
+            "rate": 10000
+        },
+        {
+            "name": "Great",
+            "description": "Has a higher catch rate than a regular Poké Ball.",
+            "catch_rate": 1.5,
+            "rate": 25
+        },
+        {
+            "name": "Ultra",
+            "description": "Has an even higher catch rate than a Great Ball.",
+            "catch_rate": 2,
+            "rate": 50
+        },
+        {
+            "name": "Dusk",
+            "description": "More effective in capturing Pokémon which are dark types.",
+            "catch_rate": "3.5x for dark Pokémon, 1x otherwise.",
+            "rate": 75
+        },
+        {
+            "name": "Quick",
+            "description": "Has a higher catch rate when used at the beginning of a wild encounter.",
+            "catch_rate": "5x on the first turn of battle.",
+            "rate": 80
+        },
+        {
+            "name": "Net",
+            "description": "More effective against Bug-type and Water-type Pokémon.",
+            "catch_rate": "3x against Bug or Water types.",
+            "rate": 75
+        },
+        {
+            "name": "Level",
+            "description": "More effective the higher the level of the player's Pokémon compared to the wild Pokémon.",
+            "catch_rate": "Variable, up to 8x if the player's Pokémon is at a much higher level.",
+            "rate": 75
+        },
+        {
+            "name": "Lure",
+            "description": "More effective while fishing.",
+            "catch_rate": "3x when used while fishing.",
+            "rate": 60
+        },
+        {
+            "name": "Moon",
+            "description": "More effective when used on Pokémon that can evolve using moon stone.",
+            "catch_rate": "4x if used on Pokémon that are fairy type.",
+            "rate": 75
+        },
+        {
+            "name": "Heavy",
+            "description": "More effective against heavy Pokémon.",
+            "catch_rate": "Variable, up to 8x for very heavy Pokémon.",
+            "rate": 75
+        },
+        {
+            "name": "Fast",
+            "description": "More effective against fast Pokémon.",
+            "catch_rate": "4x against Pokémon with a base Speed of 100 or more.",
+            "rate": 80
+        },
+        {
+            "name": "Sport",
+            "description": "A special Poké Ball used to catch Bug type Pokémons.",
+            "catch_rate": "4x against Bug type pokémons.",
+            "rate": 75
+        }
+    ],
+    "items": [
+        {
+            "name": "Candy",
+            "emoji": "🍬",
+            "rate": 80,
+            "description": "Increases your Pokémon level by +1"
+        },
+        {
+            "name": "Vitamin",
+            "emoji": "💊",
+            "rate": 50,
+            "description": "Increases the Effort values(ev) of a particular stat by +10"
+        },
+        {
+            "name": "Boost",
+            "emoji": "💉",
+            "rate": 500,
+            "description": "Increases the Individual values(iv) of a particular stat by +1. <b>Note: It is can be only used once per stat</b>"
+        },
+        {
+            "name": "Berry",
+            "emoji": "🍇",
+            "rate": 25,
+            "description": "Decreases the Effort values(ev) of a particular stat by -10"
+        },
+        {
+            "name": "Ring",
+            "emoji": "🧿",
+            "rate": 10000,
+            "description": "Allows your Pokémon to mega evolve during a battle. <b>Note: You must have the corresponding mega stone of that Pokémon to mega evolve</b>"
+        }
+    ]
+}

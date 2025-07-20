@@ -1,0 +1,77 @@
+{
+  "brock": {
+    "name": "Brock",
+    "type": "Rock",
+    "team": [
+      { "id": 74, "level": 12 },
+      { "id": 95, "level": 14 }
+    ]
+  },
+  "misty": {
+    "name": "Misty",
+    "type": "Water",
+    "team": [
+      { "id": 120, "level": 18 },
+      { "id": 121, "level": 21 }
+    ]
+  },
+  "lt. surge": {
+    "name": "Lt. Surge",
+    "type": "Electric",
+    "team": [
+      { "id": 100, "level": 21 },
+      { "id": 26, "level": 24 },
+      { "id": 125, "level": 28 }
+    ]
+  },
+  "erika": {
+    "name": "Erika",
+    "type": "Grass",
+    "team": [
+      { "id": 114, "level": 29 },
+      { "id": 71, "level": 29 },
+      { "id": 45, "level": 24 }
+    ]
+  },
+  "koga": {
+    "name": "Koga",
+    "type": "Poison",
+    "team": [
+      { "id": 109, "level": 37 },
+      { "id": 89, "level": 39 },
+      { "id": 109, "level": 37 },
+      { "id": 110, "level": 43 }
+    ]
+  },
+  "sabrina": {
+    "name": "Sabrina",
+    "type": "Psychic",
+    "team": [
+      { "id": 64, "level": 38 },
+      { "id": 122, "level": 37 },
+      { "id": 124, "level": 38 },
+      { "id": 65, "level": 43 }
+    ]
+  },
+  "blaine": {
+    "name": "Blaine",
+    "type": "Fire",
+    "team": [
+      { "id": 58, "level": 42 },
+      { "id": 77, "level": 40 },
+      { "id": 78, "level": 42 },
+      { "id": 59, "level": 47 }
+    ]
+  },
+  "giovanni": {
+    "name": "Giovanni",
+    "type": "Ground",
+    "team": [
+      { "id": 111, "level": 45 },
+      { "id": 51, "level": 42 },
+      { "id": 31, "level": 44 },
+      { "id": 34, "level": 45 },
+      { "id": 112, "level": 50 }
+    ]
+  }
+}

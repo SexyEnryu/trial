@@ -1,0 +1,102 @@
+{
+    "Hardy": {
+        "increases": "None",
+        "decreases": "None"
+    },
+    "Lonely": {
+        "increases": "Attack",
+        "decreases": "Defense"
+    },
+    "Brave": {
+        "increases": "Attack",
+        "decreases": "Speed"
+    },
+    "Adamant": {
+        "increases": "Attack",
+        "decreases": "Sp. Atk"
+    },
+    "Naughty": {
+        "increases": "Attack",
+        "decreases": "Sp. Def"
+    },
+    "Bold": {
+        "increases": "Defense",
+        "decreases": "Attack"
+    },
+    "Docile": {
+        "increases": "None",
+        "decreases": "None"
+    },
+    "Relaxed": {
+        "increases": "Defense",
+        "decreases": "Speed"
+    },
+    "Impish": {
+        "increases": "Defense",
+        "decreases": "Sp. Atk"
+    },
+    "Lax": {
+        "increases": "Defense",
+        "decreases": "Sp. Def"
+    },
+    "Timid": {
+        "increases": "Speed",
+        "decreases": "Attack"
+    },
+    "Hasty": {
+        "increases": "Speed",
+        "decreases": "Defense"
+    },
+    "Serious": {
+        "increases": "None",
+        "decreases": "None"
+    },
+    "Jolly": {
+        "increases": "Speed",
+        "decreases": "Sp. Atk"
+    },
+    "Naive": {
+        "increases": "Speed",
+        "decreases": "Sp. Def"
+    },
+    "Modest": {
+        "increases": "Sp. Atk",
+        "decreases": "Attack"
+    },
+    "Mild": {
+        "increases": "Sp. Atk",
+        "decreases": "Defense"
+    },
+    "Quiet": {
+        "increases": "Sp. Atk",
+        "decreases": "Speed"
+    },
+    "Bashful": {
+        "increases": "None",
+        "decreases": "None"
+    },
+    "Rash": {
+        "increases": "Sp. Atk",
+        "decreases": "Sp. Def"
+    },
+    "Calm": {
+        "increases": "Sp. Def",
+        "decreases": "Attack"
+    },
+    "Gentle": {
+        "increases": "Sp. Def",
+        "decreases": "Defense"
+    },
+    "Sassy": {
+        "increases": "Sp. Def",
+        "decreases": "Speed"
+    },
+    "Careful": {
+        "increases": "Sp. Def",
+        "decreases": "Sp. Atk"
+    },
+    "Quirky": {
+        "increases": "None",
+        "decreases": "None"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "english":{
+    "welcomeMsg":{
+        "text":"Welcome to the world of Pokémon! 🌍🔥💧⚡️\nGet ready to embark on an incredible journey filled with adventure, battles, and amazing creatures!\nHere are a few things to help you get started:\n🌟 Choose your starter Pokémon There are various choices. They will be your loyal companion throughout your journey.\n🗺️ Explore different regions, capture wild Pokémon, and expand your team with a diverse range of species.\n⚔️ Challenge gym leaders and prove your skills in epic Pokémon battles.\n🎁 Earn badges, collect rare items, and unlock new abilities for your Pokémon.\nAre you ready to become a Pokémon Trainer? Let the adventure begin! 🚀",
+        "image_uri":"https://t.me/hexamonbotofficial/338"
+      },
+    "startMsg":{
+        "text":"Welcome to the bot\nUse /help to get started."
+    }
+   }
+}
